@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+
+    background-size: cover;
+}
+
+.home-image {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.home-top-section {
+    text-align: center;
+    padding-top: 7vh;
+    font-family: Roboto;
+    font-weight: bold;
+    color: #132d84;
+    font-size: 30px;
+    margin-left: 5px;
+}
+
+.home-page-bottm-section {
+    text-align: center;
+    font-weight: bold;
+    color: #253263;
+}
+
+.button-section {
+    text-align: center;
+}
+
+.button {
+    background-color: #132d84;
+    color: #ffedcb;
+}
+
+.bg {
+    background-color: #ffedcb;
+    background-size: cover;
+
+}
+
+.yoga-image1 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 30px;
+}
+
+.head {
+    font-family: Roboto;
+    text-align: center;
+    color: #132d84;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.card {
+    background-color: #ffe2ab;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.card-content {
+    padding: 20px;
+    color: #253263;
+}
+
+.content-head {
+    font-size: 30px;
+}
